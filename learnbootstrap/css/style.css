@@ -36,7 +36,7 @@ button {
 }
 
 /*home*/
-#home .carousel-inner .display-1 {	
+#home .carousel-inner .display-1 {
 	font-family: "Alfa Slab One"; /*We engage change*/
 	margin:0;
 	padding:0;
@@ -64,7 +64,7 @@ button {
 /*what we do*/
 #what h1{
 	padding: 20px 15px;
-	border-bottom: 7px solid #ffdc00;
+	border-bottom: 7px solid pink;
 	max-width:650px; /*for the border*/
 }
 
@@ -103,8 +103,8 @@ button {
 
 			.modal h1{
 				margin: 40px 0 !important;
-				border-bottom: 0 !important; 
-				line-height: .75em; 
+				border-bottom: 0 !important;
+				line-height: .75em;
 			}
 
 			.modal h1 a {
@@ -125,7 +125,7 @@ button {
 
 	#who p{
 		position:absolute;
-		bottom: 10%;  
+		bottom: 10%;
 		right: 5%;
 		max-width:400px;
 		padding: 2.5%;
