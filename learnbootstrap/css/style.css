@@ -64,7 +64,7 @@ button {
 /*what we do*/
 #what h1{
 	padding: 20px 15px;
-	border-bottom: 7px solid pink;
+	border-bottom: 7px solid #ffdc00;
 	max-width:650px; /*for the border*/
 }
 
